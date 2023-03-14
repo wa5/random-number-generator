@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wa5/random-number-generator/issues"
   },
-  "homepage": "https://github.com/wa5/random-number-generator#readme"
+  "homepage": "https://github.com/wa5/random-number-generator#readme",
+  "publishConfig": {
+    "@waseemahmed116:registry": "https://npm.pkg.github.com"
+  }
+
 }
